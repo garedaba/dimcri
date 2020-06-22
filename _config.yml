@@ -9,6 +9,9 @@ description: Developmental Imaging at MCRI
 # Your name to show in the footer
 author: Developmental Imaging team
 
+url: "http://garedaba.github.io/dimcri"
+baseurl: "/dimcri"
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
@@ -75,7 +78,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/tracts.jpg"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "{{ site.baseurl }}/assets/img/tracts.jpg"
+page-img: "/assets/img/tracts.jpg"
 
 
 # --- Misc --- #
